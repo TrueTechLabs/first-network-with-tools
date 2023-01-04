@@ -43,7 +43,7 @@ args:
 
 # Tx submiter information
 mspid: Org1MSP
-private_key: ../crypto-config/peerOrganizations/org1.example.com/users/User1@org1.example.com/msp/keystore/bc80950ea827a9d359b14ce607d2725abe29faae16e919a6a75c65faf5a9e6e7_sk
+private_key: ../crypto-config/peerOrganizations/org1.example.com/users/User1@org1.example.com/msp/keystore/5b4c500534c86b237186024007fe95e6b051c61e45202cd593e6f2df5e9b226e_sk
 sign_cert: ../crypto-config/peerOrganizations/org1.example.com/users/User1@org1.example.com/msp/signcerts/User1@org1.example.com-cert.pem
 # network traffic control
 num_of_conn: 10

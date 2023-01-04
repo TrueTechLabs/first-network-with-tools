@@ -1,5 +1,6 @@
 # Definition of nodes
 peer1: &peer1
+  #docker network ip (by command ip a|grep docker)
   addr: 172.17.0.1:7051
   org: org1
 
