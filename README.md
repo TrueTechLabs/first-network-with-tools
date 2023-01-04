@@ -8,7 +8,8 @@ Added tape (Chaincode benchmark) and Hyperledger Explorer for first-network v1.4
 
 环境要求：ubuntu 20.04（或其他Linux发行版）、docker与docker-compose、git。相关教程可以看下专栏内其他文章。
 
-使用步骤：
+### 使用步骤：
+
 1.克隆本仓库
 ```bash
 git clone https://github.com/realcoooool/first-network-with-tools
